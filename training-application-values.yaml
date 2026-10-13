@@ -15,4 +15,4 @@ gateway:
   enabled: false
   hostnames: []
   name: eg
-  namespace: default
+  namespace: training-application
